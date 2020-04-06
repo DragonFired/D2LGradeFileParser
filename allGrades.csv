@@ -1,23 +1,22 @@
 Name,Assignment,Filename,Project Foldername,Gradebook Column,Grade,Numeric Grade
-Aaliyah,BasicsReview,fillblank.h,FillBlanks,Fillintheblanks,Green,100
-Aaliyah,BasicsReview,main.cpp,FillBlanks,Fillintheblanks,Green,100
-Aaliyah,BasicsReview,functions.h,StripCharacters,Stripchars,Green,100
-Aaliyah,BasicsReview,main.cpp,StripCharacters,Stripchars,Red,0
-Aaliyah,Classes,geometric.cpp,Geometric Shapes,Spheriod,Red,0
+Aaliyah,BasicsReview,fillblank.h,FillBlanks,FillBlanks,Green,100
+Aaliyah,BasicsReview,main.cpp,FillBlanks,FillBlanks,Green,100
+Aaliyah,BasicsReview,functions.h,StripCharacters,StripCharacters,Green,100
+Aaliyah,BasicsReview,main.cpp,StripCharacters,StripCharacters,Red,0
 Aaliyah,Classes,bicycle.cpp,Bicycle,Bicycle,Green,100
 Aaliyah,Classes,bicycle.h,Bicycle,Bicycle,Green,100
 Aaliyah,Classes,main.cpp,Bicycle,Bicycle,Green,100
 Aaliyah,Classes,bicycleTest.cpp,Bicycle,Bicycle,Green,100
-Aaliyah,GUIBasics,bicycleTest.cpp,Bicycle,Stripchars,Missing,-
-Christian,BasicsReview,shapes.h,CuboidAndSpheroid - Copy,Spheriod,Missing,-
-Christian,Classes,shapes.h,CuboidAndSpheroid - Copy,Cubiod,Missing,-
-Christian,GUIBasics,shapes.h,CuboidAndSpheroid - Copy,Stripchars,Missing,-
+Aaliyah,GUIBasics,bicycleTest.cpp,Bicycle,Bicycle,Missing,-
+Christian,BasicsReview,shapes.h,CuboidAndSpheroid,Spheriod,Missing,-
+Christian,Classes,shapes.h,CuboidAndSpheroid,Cubiod,Missing,-
+Christian,GUIBasics,shapes.h,CuboidAndSpheroid,Stripchars,Missing,-
 Connor,BasicsReview,stripChars.h,StripChar,Stripchars,Yellow,75
 Connor,BasicsReview,stripChars.cpp,StripChar,Stripchars,Yellow,75
 Connor,BasicsReview,main.cpp,StripChar,Stripchars,Yellow,75
-Connor,Classes,GeometricShapes.cpp,GeometricShapes,Spheriod,Yellow,75
-Connor,Classes,GeometricShapes.h,GeometricShapes,Spheriod,Yellow,75
-Connor,Classes,main.cpp,GeometricShapes,Spheriod,Yellow,75
+Connor,Classes,GeometricShapes.cpp,GeometricShapes,Spheriod,Green,100
+Connor,Classes,GeometricShapes.h,GeometricShapes,Spheriod,Green,100
+Connor,Classes,main.cpp,GeometricShapes,Spheriod,Green,100
 Connor,Classes,bike.h,Bicycle,Bicycle,Red,0
 Connor,Classes,bike.cpp,Bicycle,Bicycle,Red,0
 Connor,Classes,main.cpp,Bicycle,Bicycle,Red,0
@@ -25,30 +24,29 @@ Connor,GUIBasics,main.cpp,Bicycle,Stripchars,Missing,-
 Davon,BasicsReview,strip.cpp,StripChars,Stripchars,Green,100
 Davon,Classes,strip.cpp,StripChars,Stripchars,Missing,-
 Davon,GUIBasics,strip.cpp,StripChars,Stripchars,Missing,-
-Eric,BasicsReview,parseMath.h,Parse up math,Calculator,Yellow,75
-Eric,BasicsReview,parseMath.cpp,Parse up math,Calculator,Yellow,75
-Eric,BasicsReview,main.cpp,Parse up math,Calculator,Yellow,75
+Eric,BasicsReview,parseMath.h,Parse up math,Calculator,Green,100
+Eric,BasicsReview,parseMath.cpp,Parse up math,Calculator,Green,100
+Eric,BasicsReview,main.cpp,Parse up math,Calculator,Green,100
 Eric,BasicsReview,main.cpp,fillInTheBlanks,Fillintheblanks,Green,100
 Eric,BasicsReview,Stripper.cpp,realstrip,Stripchars,Green,100
 Eric,BasicsReview,Stripper.h,realstrip,Stripchars,Green,100
 Eric,BasicsReview,main.cpp,realstrip,Stripchars,Green,100
-Eric,Classes,main.cpp,Class Thing,Spheriod,Red,0
-Eric,Classes,Bike.h,Bicycle,Bicycle,Red,0
-Eric,Classes,Bike.cpp,Bicycle,Bicycle,Red,0
-Eric,Classes,main.cpp,Bicycle,Bicycle,Red,0
-Eric,GUIBasics,main.cpp,Bicycle,Stripchars,Missing,-
-Francis,BasicsReview,Fill in The Blanks.pdf,BasicsReview,Fillintheblanks,Red,0
+Eric,Classes,Bike.h,Bicycle,Spheriod,Red,0
+Eric,GUIBasics,die.h,craps,Bicycle,Green,100
+Eric,GUIBasics,die.cpp,craps,Bicycle,Green,100
+Eric,GUIBasics,main.cpp,craps,Bicycle,Green,100
+Francis,BasicsReview,main.cpp,fillInTheBlanks,Fillintheblanks,Green,100
 Francis,Classes,Bicycle .cpp,Bicycle,Bicycle,Red,0
 Francis,Classes,Bicycle .h,Bicycle,Bicycle,Red,0
 Francis,Classes,main.cpp,Bicycle,Bicycle,Red,0
-Francis,GUIBasics,main.cpp,Bicycle,Stripchars,Missing,-
+Francis,GUIBasics,main.cpp,Bicycle,Bicycle,Missing,-
 Henry,BasicsReview,calc.cpp,calculator,Calculator,Green,100
 Henry,BasicsReview,calc.h,calculator,Calculator,Green,100
 Henry,BasicsReview,main.cpp,calculator,Calculator,Green,100
 Henry,Classes,Circle.h,objectBasics,Spheriod,Green,100
 Henry,Classes,Spheroid.cpp,objectBasics,Spheriod,Green,100
 Henry,Classes,Rectangle.cpp,objectBasics,Spheriod,Green,100
-Henry,Classes,Circle.cpp,objectBasics,Cubiod,Green,100
+Henry,Classes,Circle.cpp,objectBasics,Spheriod,Green,100
 Henry,Classes,Rectangle.h,objectBasics,Cubiod,Green,100
 Henry,Classes,main.cpp,objectBasics,Cubiod,Green,100
 Henry,Classes,Spheroid.h,objectBasics,Cubiod,Green,100
@@ -57,41 +55,50 @@ Henry,Classes,ThreeSpeedBicycle.cpp,Bicycle_And_ThreeSpeed,Bicycle,Green,100
 Henry,Classes,bicycle.h,Bicycle_And_ThreeSpeed,Bicycle,Green,100
 Henry,Classes,ThreeSpeedBicycle.h,Bicycle_And_ThreeSpeed,Bicycle,Green,100
 Henry,Classes,main.cpp,Bicycle_And_ThreeSpeed,Bicycle,Green,100
-Henry,GUIBasics,main.cpp,Bicycle_And_ThreeSpeed,Stripchars,Missing,-
+Henry,GUIBasics,main.cpp,Bicycle_And_ThreeSpeed,Bicycle,Missing,-
+Henry,.idea,main.cpp,Bicycle_And_ThreeSpeed,Bicycle,Missing,-
+Israel,BasicsReview,Operations.h,Calculator,Calculator,Green,100
+Israel,BasicsReview,validOps.h,Calculator,Calculator,Green,100
+Israel,BasicsReview,Operations.cpp,Calculator,Calculator,Green,100
+Israel,BasicsReview,main.cpp,Calculator,Calculator,Green,100
 Israel,BasicsReview,inputString.cpp,StringStrip,Stripchars,Red,0
 Israel,BasicsReview,Operation.h,FillInTheBlanks,Fillintheblanks,Red,0
 Israel,BasicsReview,main.cpp,FillInTheBlanks,Fillintheblanks,Green,100
-Israel,Classes,main.cpp,FillInTheBlanks,Fillintheblanks,Missing,-
-Israel,GUIBasics,main.cpp,FillInTheBlanks,Stripchars,Missing,-
-Jack,BasicsReview,main.cpp,Bicylce LeBoeuf,Bicycle,Missing,-
-Jack,Classes,main.cpp,Bicylce LeBoeuf,Bicycle,Missing,-
-Jack,GUIBasics,main.cpp,Bicylce LeBoeuf,Stripchars,Missing,-
+Israel,Classes,cuboidFormula.cpp,Cuboid,Cubiod,Green,100
+Israel,Classes,main.cpp,Cuboid,Cubiod,Green,100
+Israel,Classes,cuboidFormula.h,Cuboid,Spheriod,Green,100
+Israel,GUIBasics,cuboidFormula.h,Cuboid,Spheriod,None Yet,-
+Jack,BasicsReview,main.cpp,Craps,Craps code,Missing,-
+Jack,Classes,main.cpp,Craps,Craps code,Missing,-
+Jack,GUIBasics,main.cpp,Craps,Craps code,Missing,-
 Jacob,BasicsReview,main.cpp,FillInBlanks,Fillintheblanks,Green,100
-Jacob,BasicsReview,main.cpp,CharStripp,Stripchars,Green,100
-Jacob,Classes,sphereCubeTest.cpp,Cuboid & Spheroid,Spheriod,Red,0
-Jacob,Classes,spheroid.cpp,Cuboid & Spheroid,Spheriod,Red,0
-Jacob,Classes,cuboid.cpp,Cuboid & Spheroid,Cubiod,Red,0
-Jacob,Classes,spheroid.h,Cuboid & Spheroid,Spheriod,Red,0
-Jacob,Classes,cuboid.h,Cuboid & Spheroid,Cubiod,Red,0
-Jacob,Classes,bicycle.cpp,bicycle,Bicycle,Red,0
+Jacob,BasicsReview,main.cpp,CharStrip,Stripchars,Green,100
+Jacob,BasicsReview,main.cpp,CalculaterTryThrowCatch,Calculator,Red,0
+Jacob,Classes,sphereCubeTest.cpp,Cuboid & Spheroid,Cubiod,Green,100
+Jacob,Classes,spheroid.cpp,Cuboid & Spheroid,Cubiod,Green,100
+Jacob,Classes,cuboid.cpp,Cuboid & Spheroid,Spheriod,Green,100
+Jacob,Classes,spheroid.h,Cuboid & Spheroid,Spheriod,Green,100
+Jacob,Classes,cuboid.h,Cuboid & Spheroid,Spheriod,Green,100
+Jacob,Classes,bicycle.cpp,bicycle,Bicycle,Green,100
 Jacob,Classes,bicycle.h,bicycle,Bicycle,Green,100
-Jacob,Classes,bicycleTest.cpp,bicycle,Bicycle,Red,0
-Jacob,GUIBasics,die.h,Craps,Stripchars,Red,0
-Jacob,GUIBasics,Craps.cpp,Craps,Stripchars,Red,0
-Jacob,GUIBasics,die.cpp,Craps,Stripchars,Red,0
-James,BasicsReview,main.cpp,blanks,Fillintheblanks,Green,100
+Jacob,GUIBasics,die.h,Craps,Craps code,Green,100
+Jacob,GUIBasics,Craps.cpp,Craps,Craps code,Red,0
+Jacob,GUIBasics,die.cpp,Craps,Craps code,Green,100
 James,BasicsReview,strip.cpp,strip,Stripchars,Green,100
 James,BasicsReview,strip.h,strip,Stripchars,Green,100
 James,BasicsReview,main.cpp,strip,Stripchars,Green,100
 James,BasicsReview,calcOperators.h,calculator,Calculator,Green,100
 James,BasicsReview,main.cpp,calculator,Calculator,Green,100
 James,BasicsReview,calcOperators.cpp,calculator,Calculator,Green,100
+James,BasicsReview,basicCalc.h,FillInTheBlanks,Fillintheblanks,Green,100
+James,BasicsReview,basicCalc.cpp,FillInTheBlanks,Fillintheblanks,Green,100
+James,BasicsReview,main.cpp,FillInTheBlanks,Fillintheblanks,Green,100
 James,Classes,geometricShapes.cpp,geometricShapes,Spheriod,Green,100
 James,Classes,geometricShapes.h,geometricShapes,Spheriod,Green,100
 James,Classes,main.cpp,geometricShapes,Spheriod,Green,100
-James,Classes,bicycleClass.h,bicycleClass,Bicycle,Red,0
-James,Classes,bicycleClass.cpp,bicycleClass,Bicycle,Red,0
-James,Classes,main.cpp,bicycleClass,Bicycle,Red,0
+James,Classes,bicycleClass.h,bicycleClass,Bicycle,Green,100
+James,Classes,bicycleClass.cpp,bicycleClass,Bicycle,Green,100
+James,Classes,main.cpp,bicycleClass,Bicycle,Green,100
 James,GUIBasics,main.cpp,bicycleClass,Bicycle,Missing,-
 Jason,BasicsReview,calculator.cpp,Calculator,Calculator,Green,100
 Jason,BasicsReview,calculator.h,Calculator,Calculator,Green,100
@@ -99,7 +106,7 @@ Jason,BasicsReview,main.cpp,Calculator,Calculator,Green,100
 Jason,BasicsReview,stripChars.h,StripChars,Stripchars,Green,100
 Jason,BasicsReview,stripChars.cpp,StripChars,Stripchars,Green,100
 Jason,BasicsReview,main.cpp,StripChars,Stripchars,Green,100
-Jason,BasicsReview,Source.cpp,Fill in the Blanks,Fillintheblanks,Green,100
+Jason,BasicsReview,Source.cpp,FillInTheBlanks,Fillintheblanks,Green,100
 Jason,Classes,Cuboid.cpp,Cuboid,Cubiod,Green,100
 Jason,Classes,main.cpp,Cuboid,Cubiod,Green,100
 Jason,Classes,Cuboid.h,Cuboid,Cubiod,Green,100
@@ -109,59 +116,80 @@ Jason,Classes,Spheroid.h,Spheroid,Spheriod,Green,100
 Jason,Classes,CBicycle.cpp,Bicycle,Bicycle,Green,100
 Jason,Classes,CBicycle.h,Bicycle,Bicycle,Green,100
 Jason,Classes,main.cpp,Bicycle,Bicycle,Green,100
-Jason,GUIBasics,main.cpp,Bicycle,Stripchars,None Yet,-
+Jason,GUIBasics,CUser.h,Craps - console,Craps code,Green,100
+Jason,GUIBasics,Die.h,Craps - console,Craps code,Green,100
+Jason,GUIBasics,CUser.cpp,Craps - console,Craps code,Green,100
+Jason,GUIBasics,Die.cpp,Craps - console,Craps code,Green,100
+Jason,GUIBasics,main.cpp,Craps - console,Craps code,Green,100
 Kegan,BasicsReview,main.cpp,GeometricClasses,Spheriod,Missing,-
 Kegan,Classes,main.cpp,GeometricClasses,Spheriod,Missing,-
-Kegan,GUIBasics,main.cpp,GeometricClasses,Stripchars,Missing,-
-Kyle,BasicsReview,die.cpp,Craps,Craps code,None Yet,-
-Kyle,Classes,die.cpp,Craps,Craps code,Missing,-
-Kyle,GUIBasics,die.cpp,Craps,Stripchars,Missing,-
+Kegan,GUIBasics,main.cpp,GeometricClasses,Spheriod,Missing,-
+Kyle,BasicsReview,Striped.h,stripChars,Stripchars,Red,0
+Kyle,BasicsReview,main.cpp,stripChars,Stripchars,Red,0
+Kyle,BasicsReview,ParsString.h,ParsString,Calculator,Red,0
+Kyle,BasicsReview,main.cpp,ParsString,Calculator,Red,0
+Kyle,BasicsReview,main.cpp,FillInTheBlanks,Fillintheblanks,Red,0
+Kyle,Classes,main.cpp,FillInTheBlanks,Fillintheblanks,Missing,-
+Kyle,GUIBasics,main.cpp,FillInTheBlanks,Fillintheblanks,Missing,-
+Matthew,BasicsReview,Parser.h,Parsing Calculator,Calculator,Green,100
+Matthew,BasicsReview,Parser.cpp,Parsing Calculator,Calculator,Green,100
+Matthew,BasicsReview,main.cpp,Parsing Calculator,Calculator,Green,100
 Matthew,BasicsReview,StripChars.h,Strip Chars,Stripchars,Green,100
 Matthew,BasicsReview,StripChars.cpp,Strip Chars,Stripchars,Green,100
-Matthew,BasicsReview,StripCharSource.cpp,Strip Chars,Stripchars,Red,0
+Matthew,BasicsReview,StripCharSource.cpp,Strip Chars,Stripchars,Green,100
 Matthew,BasicsReview,main.cpp,Strip Chars,Stripchars,Green,100
-Matthew,Classes,Bicycle Classes and Subclasses.h,Bicycle (Three Speed Not working),Bicycle,Green,100
-Matthew,Classes,Bicycle Classes and Subclasses.cpp,Bicycle (Three Speed Not working),Bicycle,Red,0
-Matthew,Classes,main.cpp,Bicycle (Three Speed Not working),Bicycle,Green,100
 Matthew,Classes,geometricShapes.cpp,GeometricClasses,Spheriod,Green,100
-Matthew,Classes,geometricShapes.h,GeometricClasses,Spheriod,Green,100
+Matthew,Classes,geometricShapes.h,GeometricClasses,Cubiod,Green,100
 Matthew,Classes,main.cpp,GeometricClasses,Cubiod,Green,100
-Matthew,GUIBasics,main.cpp,GeometricClasses,Stripchars,None Yet,-
+Matthew,Classes,Bicycle Classes and Subclasses.h,Bicycle,Bicycle,Green,100
+Matthew,Classes,Bicycle Classes and Subclasses.cpp,Bicycle,Bicycle,Green,100
+Matthew,Classes,main.cpp,Bicycle,Bicycle,Green,100
+Matthew,GUIBasics,main.cpp,Bicycle,Bicycle,None Yet,-
+NathanaelH,BasicsReview,main.cpp,fillInTheBlanks,Stripchars,Green,100
 NathanaelH,BasicsReview,stripchar.h,stripchar,Stripchars,Red,0
 NathanaelH,BasicsReview,stripchar.cpp,stripchar,Stripchars,Red,0
-NathanaelH,BasicsReview,main.cpp,stripchar,Stripchars,Red,0
-NathanaelH,BasicsReview,main.cpp,calculator1,Calculator,Green,100
+NathanaelH,BasicsReview,main.cpp,stripchar,Calculator,Red,0
 NathanaelH,Classes,shapes.cpp,assignment,Spheriod,Red,0
 NathanaelH,Classes,main.cpp,assignment,Spheriod,Red,0
 NathanaelH,Classes,shapes.h,assignment,Spheriod,Red,0
-NathanaelH,GUIBasics,shapes.h,assignment,Stripchars,Missing,-
-NathanaelL,BasicsReview,parser.h,calculator,Calculator,Red,0
-NathanaelL,BasicsReview,parser.cpp,calculator,Calculator,Red,0
-NathanaelL,BasicsReview,main.cpp,calculator,Calculator,Red,0
+NathanaelH,GUIBasics,shapes.h,assignment,Cubiod,Missing,-
+NathanaelL,BasicsReview,parser.h,calculator,Calculator,Green,100
+NathanaelL,BasicsReview,parser.cpp,calculator,Calculator,Green,100
+NathanaelL,BasicsReview,main.cpp,calculator,Calculator,Green,100
 NathanaelL,BasicsReview,main.cpp,fillblanks,Fillintheblanks,Green,100
 NathanaelL,BasicsReview,strip.cpp,stripcharacters,Stripchars,Green,100
 NathanaelL,BasicsReview,strip.h,stripcharacters,Stripchars,Green,100
 NathanaelL,BasicsReview,main.cpp,stripcharacters,Stripchars,Green,100
+NathanaelL,Classes,cuboid.cpp,cuboid,Cubiod,Green,100
+NathanaelL,Classes,main.cpp,cuboid,Cubiod,Green,100
+NathanaelL,Classes,cuboid.h,cuboid,Cubiod,Green,100
 NathanaelL,Classes,spheroid.cpp,spheroid,Spheriod,Green,100
-NathanaelL,Classes,main.cpp,spheroid,Spheriod,Red,0
+NathanaelL,Classes,main.cpp,spheroid,Spheriod,Green,100
 NathanaelL,Classes,spheroid.h,spheroid,Spheriod,Green,100
-NathanaelL,Classes,circle.h,objectBasics,Spheriod,Green,100
-NathanaelL,Classes,rectangle.cpp,objectBasics,Spheriod,Green,100
-NathanaelL,Classes,circle.cpp,objectBasics,Spheriod,Green,100
+NathanaelL,Classes,circle.h,objectBasics,Cubiod,Green,100
+NathanaelL,Classes,rectangle.cpp,objectBasics,Cubiod,Green,100
+NathanaelL,Classes,circle.cpp,objectBasics,Cubiod,Green,100
 NathanaelL,Classes,rectangle.h,objectBasics,Cubiod,Green,100
 NathanaelL,Classes,main.cpp,objectBasics,Cubiod,Green,100
 NathanaelL,Classes,bicycle.cpp,bicycle,Bicycle,Red,0
 NathanaelL,Classes,bicycle.h,bicycle,Bicycle,Red,0
 NathanaelL,Classes,main.cpp,bicycle,Bicycle,Red,0
-NathanaelL,GUIBasics,main.cpp,bicycle,Stripchars,None Yet,-
-NicholasF,BasicsReview,Header.h,StripCharacters,Stripchars,Red,0
-NicholasF,BasicsReview,main.cpp,StripCharacters,Stripchars,Red,0
-NicholasF,Classes,Header.h,Sphere,Spheriod,Red,0
-NicholasF,Classes,main.cpp,Sphere,Spheriod,Red,0
-NicholasF,Classes,main.cpp,Circle,Cubiod,Red,0
-NicholasF,Classes,Header.h,Bicycle,Bicycle,Red,0
-NicholasF,Classes,main.cpp,Bicycle,Bicycle,Red,0
-NicholasF,GUIBasics,main.cpp,Bicycle,Stripchars,Missing,-
+NathanaelL,GUIBasics,die.h,craps,Craps code,Green,100
+NathanaelL,GUIBasics,die.cpp,craps,Craps code,Green,100
+NathanaelL,GUIBasics,main.cpp,craps,Craps code,Green,100
+NicholasF,BasicsReview,Header.h,StripCharacters,Stripchars,Green,100
+NicholasF,BasicsReview,Function.cpp,StripCharacters,Stripchars,Green,100
+NicholasF,BasicsReview,main.cpp,StripCharacters,Stripchars,Green,100
+NicholasF,Classes,Header.h,Sphere,Spheriod,Green,100
+NicholasF,Classes,Functions.cpp,Sphere,Spheriod,Green,100
+NicholasF,Classes,main.cpp,Sphere,Spheriod,Green,100
+NicholasF,Classes,Header.h,Circle,Cubiod,Green,100
+NicholasF,Classes,Function.cpp,Circle,Bicycle,Green,100
+NicholasF,Classes,main.cpp,Circle,Stripchars,Green,100
+NicholasF,Classes,Header.h,Bicycle,Bicycle,Green,100
+NicholasF,Classes,Functions.cpp,Bicycle,Bicycle,Green,100
+NicholasF,Classes,main.cpp,Bicycle,Bicycle,Green,100
+NicholasF,GUIBasics,main.cpp,Bicycle,Bicycle,Missing,-
 NicholasG,BasicsReview,Operations.h,Calculator,Calculator,Green,100
 NicholasG,BasicsReview,Operations.cpp,Calculator,Calculator,Green,100
 NicholasG,BasicsReview,main.cpp,Calculator,Calculator,Green,100
@@ -169,13 +197,17 @@ NicholasG,BasicsReview,main.cpp,FillInTheBlank,Fillintheblanks,Green,100
 NicholasG,BasicsReview,StripChar.h,StripChar,Stripchars,Green,100
 NicholasG,BasicsReview,StripChar.cpp,StripChar,Stripchars,Green,100
 NicholasG,BasicsReview,main.cpp,StripChar,Stripchars,Green,100
-NicholasG,Classes,geometricShapes.cpp,ClassPractice - Copy,Spheriod,Green,100
-NicholasG,Classes,geometricShapes.h,ClassPractice - Copy,Spheriod,Green,100
-NicholasG,Classes,main.cpp,ClassPractice - Copy,Spheriod,Green,100
+NicholasG,Classes,geometricShapes.cpp,GeometricShapes,Spheriod,Green,100
+NicholasG,Classes,geometricShapes.h,GeometricShapes,Spheriod,Green,100
+NicholasG,Classes,main.cpp,GeometricShapes,Spheriod,Green,100
 NicholasG,Classes,bicycle.cpp,Bicycle,Bicycle,Green,100
 NicholasG,Classes,bicycle.h,Bicycle,Bicycle,Green,100
 NicholasG,Classes,main.cpp,Bicycle,Bicycle,Green,100
-NicholasG,GUIBasics,main.cpp,Bicycle,Stripchars,Missing,-
+NicholasG,GUIBasics,Die.h,GUIBasics,Craps code,Green,100
+NicholasG,GUIBasics,GameLogic.h,GUIBasics,Craps code,Green,100
+NicholasG,GUIBasics,Die.cpp,GUIBasics,Craps code,Green,100
+NicholasG,GUIBasics,GameLogic.cpp,GUIBasics,Craps code,Green,100
+NicholasG,GUIBasics,main.cpp,GUIBasics,Craps code,Green,100
 NicholasL,BasicsReview,calculator.cpp,Fill-In-The-Blanks,Fillintheblanks,Green,100
 NicholasL,BasicsReview,calculator.h,Fill-In-The-Blanks,Fillintheblanks,Green,100
 NicholasL,BasicsReview,main.cpp,Fill-In-The-Blanks,Fillintheblanks,Green,100
@@ -185,13 +217,17 @@ NicholasL,BasicsReview,main.cpp,stripChars,Stripchars,Green,100
 NicholasL,BasicsReview,stringParsing.cpp,stringParsing,Calculator,Green,100
 NicholasL,BasicsReview,stringParsing.h,stringParsing,Calculator,Green,100
 NicholasL,BasicsReview,main.cpp,stringParsing,Calculator,Green,100
-NicholasL,Classes,geometricShapes.cpp,geometricShapes LeBoeuf,Spheriod,Green,100
-NicholasL,Classes,geometricShapes.h,geometricShapes LeBoeuf,Spheriod,Green,100
-NicholasL,Classes,main.cpp,geometricShapes LeBoeuf,Spheriod,Red,0
-NicholasL,Classes,bicycle.cpp,Bicylce LeBoeuf,Spheriod,Green,100
-NicholasL,Classes,bicycle.h,Bicylce LeBoeuf,Bicycle,Green,100
-NicholasL,Classes,main.cpp,Bicylce LeBoeuf,Bicycle,Red,0
-NicholasL,GUIBasics,main.cpp,Bicylce LeBoeuf,Stripchars,None Yet,-
+NicholasL,Classes,geometricShapes.cpp,geometricShapes,Spheriod,Green,100
+NicholasL,Classes,geometricShapes.h,geometricShapes,Spheriod,Green,100
+NicholasL,Classes,main.cpp,geometricShapes,Spheriod,Green,100
+NicholasL,Classes,bicycle.cpp,Bicycle,Bicycle,Green,100
+NicholasL,Classes,bicycle.h,Bicycle,Bicycle,Green,100
+NicholasL,Classes,main.cpp,Bicycle,Bicycle,Green,100
+NicholasL,GUIBasics,die.h,Craps,Craps code,Green,100
+NicholasL,GUIBasics,craps.h,Craps,Craps code,Green,100
+NicholasL,GUIBasics,craps.cpp,Craps,Craps code,Green,100
+NicholasL,GUIBasics,die.cpp,Craps,Craps code,Green,100
+NicholasL,GUIBasics,main.cpp,Craps,Craps code,Green,100
 Noah,BasicsReview,strip.cpp,strip,Stripchars,Green,100
 Noah,BasicsReview,Source.cpp,strip,Stripchars,Green,100
 Noah,BasicsReview,StripCharacter.h,strip,Stripchars,Green,100
@@ -200,34 +236,40 @@ Noah,BasicsReview,Parse.cpp,ParseCalculator,Calculator,Green,100
 Noah,BasicsReview,Calculator.cpp,ParseCalculator,Calculator,Green,100
 Noah,BasicsReview,Parse.h,ParseCalculator,Calculator,Green,100
 Noah,BasicsReview,Calculator.h,ParseCalculator,Calculator,Green,100
-Noah,BasicsReview,Fill In the Blanks.cpp,Fill In the Blanks,Fillintheblanks,Green,100
+Noah,BasicsReview,Fill In the Blanks.cpp,FillInTheBlanks,Fillintheblanks,Green,100
 Noah,Classes,Sphere.h,Spheroid and Cuboid,Spheriod,Green,100
 Noah,Classes,SphereSource.cpp,Spheroid and Cuboid,Spheriod,Green,100
 Noah,Classes,ShapeCuboid.cpp,Spheroid and Cuboid,Cubiod,Green,100
 Noah,Classes,Spheroid.lastbuildstate,Spheroid and Cuboid,Cubiod,Green,100
 Noah,Classes,main.cpp,Spheroid and Cuboid,Cubiod,Green,100
 Noah,Classes,Cuboid.h,Spheroid and Cuboid,Cubiod,Green,100
-Noah,Classes,main.cpp,Spheroid,Spheriod,Red,0
-Noah,GUIBasics,main.cpp,Spheroid,Stripchars,None Yet,-
-Ryan,BasicsReview,stripFunction.h,strip,Stripchars,Red,0
-Ryan,BasicsReview,stripfile.h,strip,Stripchars,Red,0
-Ryan,BasicsReview,main.cpp,strip,Stripchars,Green,100
-Ryan,BasicsReview,fillInTheBlank.cpp,FillInTheBlanks - Copy,Fillintheblanks,Green,100
-Ryan,BasicsReview,fillInTheBlanks.cpp,FillInTheBlanks - Copy,Fillintheblanks,Green,100
-Ryan,BasicsReview,fillInTheBlanks.h,FillInTheBlanks - Copy,Fillintheblanks,Green,100
-Ryan,BasicsReview,fillInTheBlank.h,FillInTheBlanks - Copy,Fillintheblanks,Green,100
-Ryan,BasicsReview,main.cpp,FillInTheBlanks - Copy,Fillintheblanks,Green,100
-Ryan,BasicsReview,calculatorFunctions.cpp,Calculator - Copy,Calculator,Green,100
-Ryan,BasicsReview,calculatorFunctions.h,Calculator - Copy,Calculator,Green,100
-Ryan,BasicsReview,calculator.h,Calculator - Copy,Calculator,Green,100
-Ryan,BasicsReview,main.cpp,Calculator - Copy,Calculator,Green,100
-Ryan,Classes,bicycle.cpp,BicycleClass - Copy,Bicycle,Green,100
-Ryan,Classes,bicycle.h,BicycleClass - Copy,Bicycle,Green,100
-Ryan,Classes,main.cpp,BicycleClass - Copy,Bicycle,Green,100
-Ryan,Classes,shapes.cpp,objectClassesWithFiles - Copy,Spheriod,Green,100
-Ryan,Classes,main.cpp,objectClassesWithFiles - Copy,Spheriod,Green,100
-Ryan,Classes,shapes.h,objectClassesWithFiles - Copy,Spheriod,Green,100
-Ryan,Classes,shapes.cpp,CuboidAndSpheroid - Copy,Cubiod,Green,100
-Ryan,Classes,main.cpp,CuboidAndSpheroid - Copy,Cubiod,Green,100
-Ryan,Classes,shapes.h,CuboidAndSpheroid - Copy,Cubiod,Green,100
-Ryan,GUIBasics,shapes.h,CuboidAndSpheroid - Copy,Stripchars,Missing,-
+Noah,Classes,Sphere.h,Spheroid,Spheriod,Green,100
+Noah,Classes,SphereSource.cpp,Spheroid,Spheriod,Green,100
+Noah,Classes,main.cpp,Spheroid,Spheriod,Green,100
+Noah,Classes,Bicycle.cpp,Bicycle,Bicycle,Green,100
+Noah,Classes,Bicycle.h,Bicycle,Bicycle,Green,100
+Noah,Classes,main.cpp,Bicycle,Bicycle,Green,100
+Noah,GUIBasics,main.cpp,Bicycle,Bicycle,None Yet,-
+Ryan,BasicsReview,calculatorFunctions.cpp,Calculator,Calculator,Green,100
+Ryan,BasicsReview,calculatorFunctions.h,Calculator,Calculator,Green,100
+Ryan,BasicsReview,calculator.h,Calculator,Calculator,Green,100
+Ryan,BasicsReview,main.cpp,Calculator,Calculator,Green,100
+Ryan,BasicsReview,stripChars.h,StripChars,Stripchars,Green,100
+Ryan,BasicsReview,Source.cpp,StripChars,Stripchars,Green,100
+Ryan,BasicsReview,stripChars.cpp,StripChars,Stripchars,Green,100
+Ryan,BasicsReview,main.cpp,StripChars,Stripchars,Green,100
+Ryan,BasicsReview,fillInTheBlank.cpp,FillInTheBlanks,Fillintheblanks,Green,100
+Ryan,BasicsReview,fillInTheBlanks.cpp,FillInTheBlanks,Fillintheblanks,Green,100
+Ryan,BasicsReview,fillInTheBlanks.h,FillInTheBlanks,Fillintheblanks,Green,100
+Ryan,BasicsReview,fillInTheBlank.h,FillInTheBlanks,Fillintheblanks,Green,100
+Ryan,BasicsReview,main.cpp,FillInTheBlanks,Fillintheblanks,Green,100
+Ryan,Classes,shapes.cpp,objectClassesWithFiles,Cubiod,Green,100
+Ryan,Classes,main.cpp,objectClassesWithFiles,Cubiod,Green,100
+Ryan,Classes,shapes.h,objectClassesWithFiles,Cubiod,Green,100
+Ryan,Classes,bicycle.cpp,BicycleClass,Bicycle,Green,100
+Ryan,Classes,bicycle.h,BicycleClass,Bicycle,Green,100
+Ryan,Classes,main.cpp,BicycleClass,Bicycle,Green,100
+Ryan,Classes,shapes.cpp,CuboidAndSpheroid,Spheriod,Green,100
+Ryan,Classes,main.cpp,CuboidAndSpheroid,Spheriod,Green,100
+Ryan,Classes,shapes.h,CuboidAndSpheroid,Spheriod,Green,100
+Ryan,GUIBasics,shapes.h,CuboidAndSpheroid,Spheriod,Missing,-

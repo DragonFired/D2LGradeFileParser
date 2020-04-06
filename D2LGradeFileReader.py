@@ -4,7 +4,7 @@ __author__ = "Arana Fireheart"
 from csv import reader, writer
 from assignmentObjects import Assignment, AssignmentManager
 
-csvFilename = "CS-114-06806 Intro to Software Engineering 20SPDAY_GradesExport_2020-04-01-14-08.csv"
+csvFilename = "CS-114-06806 Intro to Software Engineering 20SPDAY_GradesExport_2020-04-06-19-42.csv"
 gradesFilename = "allGrades.csv"
 gradesExportFilename = "gradesForD2L.csv"
 
@@ -35,9 +35,12 @@ def calculateGrade(studentName, GBColumnName):
     for assignment in manager.getAssignmentsByGBColumn(studentName, GBColumnName):
         assignmentGrades.append(assignment.getGrade())
     if len(assignmentGrades) > 0:
-        return min(assignmentGrades) / 10
+        if max(assignmentGrades) == 0:
+            return ''
+        else:
+            return max(assignmentGrades) / 10
     else:
-        return 0
+        return ''
 
 with open(csvFilename) as csvInputFile, open(gradesExportFilename, 'w') as gradesOutputFile:
     csvReader = reader(csvInputFile)
@@ -51,7 +54,7 @@ with open(csvFilename) as csvInputFile, open(gradesExportFilename, 'w') as grade
             # print(assignmentDictionary.keys())
             name = row[2]
             # print(row[2], row[1])
-            gradesWriter.writerow(header)
+            gradesWriter.writerow(headers)
         else:
             name = row[2]
             if not manager.hasStudent(name):
